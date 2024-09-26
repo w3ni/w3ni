@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w3ni
 - 👀 I’m interested in Cyber Security & Coding
-- 🌱 I’m currently learning Digital forensics 
+- 🌱 I’m currently learning Pentesting
 - 😄 Pronouns: he/him
 
 <!---
